@@ -1,3 +1,3 @@
 **Hello from GitHub
 
-**Hello from Eclipse
+**Hello from Eclipse $
